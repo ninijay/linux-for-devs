@@ -1,0 +1,2 @@
+function mkCproj(){ mkdir src; mkdir tests; mkdir bin; touch src/main.c; touch tests/test.c; cp ~/.config/templates/coding/c/Makefile .; }
+
